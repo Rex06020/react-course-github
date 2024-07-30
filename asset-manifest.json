@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-course-github/static/css/main.f855e6bc.css",
+    "main.js": "/react-course-github/static/js/main.a5685a9f.js",
+    "static/js/453.20952338.chunk.js": "/react-course-github/static/js/453.20952338.chunk.js",
+    "static/media/logo.svg": "/react-course-github/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/react-course-github/index.html",
+    "main.f855e6bc.css.map": "/react-course-github/static/css/main.f855e6bc.css.map",
+    "main.a5685a9f.js.map": "/react-course-github/static/js/main.a5685a9f.js.map",
+    "453.20952338.chunk.js.map": "/react-course-github/static/js/453.20952338.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.a5685a9f.js"
+  ]
+}
